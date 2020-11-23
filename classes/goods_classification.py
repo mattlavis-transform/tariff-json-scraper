@@ -52,9 +52,9 @@ class GoodsClassification(object):
 
 
     def download_structure(self):
-        # self.get_sections()
-        # self.get_chapters()
-        # self.get_search_references()
+        self.get_sections()
+        self.get_chapters()
+        self.get_search_references()
         self.get_geographical_areas()
         self.get_footnote_types()
         self.get_certificate_types()
