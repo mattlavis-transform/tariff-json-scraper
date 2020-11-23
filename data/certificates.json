@@ -1,0 +1,1904 @@
+{
+    "data": [
+        {
+            "id": "9001",
+            "type": "certificates",
+            "attributes": {
+                "certificate_type_code": "9",
+                "certificate_code": "001",
+                "description": "Declaration of preferential origin on an invoice or other commercial document",
+                "formatted_description": "Declaration of preferential origin on an invoice or other commercial document"
+            },
+            "relationships": {
+                "measures": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "id": "9002",
+            "type": "certificates",
+            "attributes": {
+                "certificate_type_code": "9",
+                "certificate_code": "002",
+                "description": "Movement certificate EUR-MED",
+                "formatted_description": "Movement certificate EUR-MED"
+            },
+            "relationships": {
+                "measures": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "id": "9003",
+            "type": "certificates",
+            "attributes": {
+                "certificate_type_code": "9",
+                "certificate_code": "003",
+                "description": "EUR-MED declaration of preferential origin on an invoice or other commercial document",
+                "formatted_description": "EUR-MED declaration of preferential origin on an invoice or other commercial document"
+            },
+            "relationships": {
+                "measures": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "id": "9004",
+            "type": "certificates",
+            "attributes": {
+                "certificate_type_code": "9",
+                "certificate_code": "004",
+                "description": "E.Certificates of origin for steel",
+                "formatted_description": "E.Certificates of origin for steel"
+            },
+            "relationships": {
+                "measures": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "id": "9100",
+            "type": "certificates",
+            "attributes": {
+                "certificate_type_code": "9",
+                "certificate_code": "100",
+                "description": "Firearms: Open individual licence or Specific individual licence. Nuclear materials open individual licence or specific individual licence",
+                "formatted_description": "Firearms: Open individual licence or Specific individual licence. Nuclear materials open individual licence or specific individual licence"
+            },
+            "relationships": {
+                "measures": {
+                    "data": [
+                        {
+                            "id": "-9281",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-9283",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-9284",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-9285",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-9286",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-9288",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-9293",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-11916",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-11924",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-11926",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-46867",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-46876",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-416241",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-416247",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-432389",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-566995",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-572034",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-572059",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-511428",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-511429",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-511430",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-591703",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-591817",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-592417",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-592418",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-592420",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-592422",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-592427",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-592434",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-592439",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-592440",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-592441",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-592453",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-592459",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593052",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593054",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593057",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593060",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593062",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593063",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593064",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593065",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593067",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593068",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593069",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593070",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593072",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593073",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593074",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593080",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593081",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593082",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593085",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593086",
+                            "type": "measure"
+                        },
+                        {
+                            "id": "-593087",
+                            "type": "measure"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "included": [
+        {
+            "id": "-9281",
+            "type": "measure",
+            "attributes": {
+                "id": -9281,
+                "validity_start_date": "2008-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2612109000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "35472",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-9283",
+            "type": "measure",
+            "attributes": {
+                "id": -9283,
+                "validity_start_date": "2008-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2844202500"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "70395",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-9284",
+            "type": "measure",
+            "attributes": {
+                "id": -9284,
+                "validity_start_date": "2008-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2844205900"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "56080",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-9285",
+            "type": "measure",
+            "attributes": {
+                "id": -9285,
+                "validity_start_date": "2008-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2844205100"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "56079",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-9286",
+            "type": "measure",
+            "attributes": {
+                "id": -9286,
+                "validity_start_date": "2008-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2844209900"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "70397",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-9288",
+            "type": "measure",
+            "attributes": {
+                "id": -9288,
+                "validity_start_date": "2008-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2844500000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "36131",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-9293",
+            "type": "measure",
+            "attributes": {
+                "id": -9293,
+                "validity_start_date": "2008-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9305910000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "74210",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-11916",
+            "type": "measure",
+            "attributes": {
+                "id": -11916,
+                "validity_start_date": "2008-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2844109000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "56064",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-11924",
+            "type": "measure",
+            "attributes": {
+                "id": -11924,
+                "validity_start_date": "2008-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2844105000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "56063",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-11926",
+            "type": "measure",
+            "attributes": {
+                "id": -11926,
+                "validity_start_date": "2008-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2844101000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "56059",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-46867",
+            "type": "measure",
+            "attributes": {
+                "id": -46867,
+                "validity_start_date": "2008-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2612209000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "35475",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-46876",
+            "type": "measure",
+            "attributes": {
+                "id": -46876,
+                "validity_start_date": "2008-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2612201000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "35474",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-416241",
+            "type": "measure",
+            "attributes": {
+                "id": -416241,
+                "validity_start_date": "2016-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9301100000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "96000",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-416247",
+            "type": "measure",
+            "attributes": {
+                "id": -416247,
+                "validity_start_date": "2016-01-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9301200000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "74207",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-432389",
+            "type": "measure",
+            "attributes": {
+                "id": -432389,
+                "validity_start_date": "2016-09-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9706000000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "54756",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-566995",
+            "type": "measure",
+            "attributes": {
+                "id": -566995,
+                "validity_start_date": "2020-01-17T10:02:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9301900000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "74208",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-572034",
+            "type": "measure",
+            "attributes": {
+                "id": -572034,
+                "validity_start_date": "2020-03-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9705000030"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "96436",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-572059",
+            "type": "measure",
+            "attributes": {
+                "id": -572059,
+                "validity_start_date": "2020-03-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9705000090"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "90104",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-511428",
+            "type": "measure",
+            "attributes": {
+                "id": -511428,
+                "validity_start_date": "2019-02-22T14:08:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2844103000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "70393",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-511429",
+            "type": "measure",
+            "attributes": {
+                "id": -511429,
+                "validity_start_date": "2019-02-22T14:10:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2844203500"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "70396",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-511430",
+            "type": "measure",
+            "attributes": {
+                "id": -511430,
+                "validity_start_date": "2019-02-22T14:12:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2612101000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "35471",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-591703",
+            "type": "measure",
+            "attributes": {
+                "id": -591703,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2903930000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "101254",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-591817",
+            "type": "measure",
+            "attributes": {
+                "id": -591817,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "2903940000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "101255",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-592417",
+            "type": "measure",
+            "attributes": {
+                "id": -592417,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "3603006090"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "103882",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-592418",
+            "type": "measure",
+            "attributes": {
+                "id": -592418,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "3603005000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "103836",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-592420",
+            "type": "measure",
+            "attributes": {
+                "id": -592420,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "3603003000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "103834",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-592422",
+            "type": "measure",
+            "attributes": {
+                "id": -592422,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "3601000090"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "93815",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-592427",
+            "type": "measure",
+            "attributes": {
+                "id": -592427,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "3604900000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "38201",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-592434",
+            "type": "measure",
+            "attributes": {
+                "id": -592434,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "3603006010"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "103883",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-592439",
+            "type": "measure",
+            "attributes": {
+                "id": -592439,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "3601000010"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "93814",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-592440",
+            "type": "measure",
+            "attributes": {
+                "id": -592440,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "3602000000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "38195",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-592441",
+            "type": "measure",
+            "attributes": {
+                "id": -592441,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "3603004000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "103835",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-592453",
+            "type": "measure",
+            "attributes": {
+                "id": -592453,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "3603002000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "103833",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-592459",
+            "type": "measure",
+            "attributes": {
+                "id": -592459,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "3603008000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "103838",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593052",
+            "type": "measure",
+            "attributes": {
+                "id": -593052,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "8482990030"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "104912",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593054",
+            "type": "measure",
+            "attributes": {
+                "id": -593054,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "8482990090"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "104247",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593057",
+            "type": "measure",
+            "attributes": {
+                "id": -593057,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9303201000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "69068",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593060",
+            "type": "measure",
+            "attributes": {
+                "id": -593060,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9302000000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "54236",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593062",
+            "type": "measure",
+            "attributes": {
+                "id": -593062,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9306290090"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "98472",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593063",
+            "type": "measure",
+            "attributes": {
+                "id": -593063,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9305990000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "74211",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593064",
+            "type": "measure",
+            "attributes": {
+                "id": -593064,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9306909000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "54289",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593065",
+            "type": "measure",
+            "attributes": {
+                "id": -593065,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9303209500"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "69069",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593067",
+            "type": "measure",
+            "attributes": {
+                "id": -593067,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9303100000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "54240",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593068",
+            "type": "measure",
+            "attributes": {
+                "id": -593068,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9303300000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "54245",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593069",
+            "type": "measure",
+            "attributes": {
+                "id": -593069,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9305200010"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "98469",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593070",
+            "type": "measure",
+            "attributes": {
+                "id": -593070,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9305100000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "54253",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593072",
+            "type": "measure",
+            "attributes": {
+                "id": -593072,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9306901000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "54288",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593073",
+            "type": "measure",
+            "attributes": {
+                "id": -593073,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9306290010"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "98471",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593074",
+            "type": "measure",
+            "attributes": {
+                "id": -593074,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9304000000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "54251",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593080",
+            "type": "measure",
+            "attributes": {
+                "id": -593080,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9306210000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "54267",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593081",
+            "type": "measure",
+            "attributes": {
+                "id": -593081,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9306301000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "54279",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593082",
+            "type": "measure",
+            "attributes": {
+                "id": -593082,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9305200090"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "98470",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593085",
+            "type": "measure",
+            "attributes": {
+                "id": -593085,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9303900000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "54250",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593086",
+            "type": "measure",
+            "attributes": {
+                "id": -593086,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9306309000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "93231",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "-593087",
+            "type": "measure",
+            "attributes": {
+                "id": -593087,
+                "validity_start_date": "2020-08-01T00:00:00.000Z",
+                "validity_end_date": null,
+                "goods_nomenclature_item_id": "9306303000"
+            },
+            "relationships": {
+                "goods_nomenclature": {
+                    "data": {
+                        "id": "54281",
+                        "type": "goods_nomenclature"
+                    }
+                }
+            }
+        },
+        {
+            "id": "35472",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2612109000",
+                "goods_nomenclature_sid": 35472,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "70395",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2844202500",
+                "goods_nomenclature_sid": 70395,
+                "producline_suffix": "80",
+                "number_indents": 3,
+                "description": "Ferro-uranium"
+            }
+        },
+        {
+            "id": "56080",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2844205900",
+                "goods_nomenclature_sid": 56080,
+                "producline_suffix": "80",
+                "number_indents": 4,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "56079",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2844205100",
+                "goods_nomenclature_sid": 56079,
+                "producline_suffix": "80",
+                "number_indents": 4,
+                "description": "Ferro-uranium"
+            }
+        },
+        {
+            "id": "70397",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2844209900",
+                "goods_nomenclature_sid": 70397,
+                "producline_suffix": "80",
+                "number_indents": 3,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "36131",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2844500000",
+                "goods_nomenclature_sid": 36131,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Spent (irradiated) fuel elements (cartridges) of nuclear reactors"
+            }
+        },
+        {
+            "id": "74210",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9305910000",
+                "goods_nomenclature_sid": 74210,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Of military weapons of heading\u0026nbsp;9301"
+            }
+        },
+        {
+            "id": "56064",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2844109000",
+                "goods_nomenclature_sid": 56064,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "56063",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2844105000",
+                "goods_nomenclature_sid": 56063,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Ferro-uranium"
+            }
+        },
+        {
+            "id": "56059",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2844101000",
+                "goods_nomenclature_sid": 56059,
+                "producline_suffix": "80",
+                "number_indents": 3,
+                "description": "Crude; waste and scrap"
+            }
+        },
+        {
+            "id": "35475",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2612209000",
+                "goods_nomenclature_sid": 35475,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "35474",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2612201000",
+                "goods_nomenclature_sid": 35474,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Monazite; urano-thorianite and other thorium ores and concentrates, with a thorium content of more than 20% by weight"
+            }
+        },
+        {
+            "id": "96000",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9301100000",
+                "goods_nomenclature_sid": 96000,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Artillery weapons (for example, guns, howitzers and mortars)"
+            }
+        },
+        {
+            "id": "74207",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9301200000",
+                "goods_nomenclature_sid": 74207,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Rocket launchers; flame-throwers; grenade launchers; torpedo tubes and similar projectors"
+            }
+        },
+        {
+            "id": "54756",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9706000000",
+                "goods_nomenclature_sid": 54756,
+                "producline_suffix": "80",
+                "number_indents": 0,
+                "description": "Antiques of an age exceeding 100\u0026nbsp;years"
+            }
+        },
+        {
+            "id": "74208",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9301900000",
+                "goods_nomenclature_sid": 74208,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "96436",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9705000030",
+                "goods_nomenclature_sid": 96436,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Collections and collectors' pieces of zoological, anatomical, historical, archaeological, palaeontological or ethnographic interest containing animal products"
+            }
+        },
+        {
+            "id": "90104",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9705000090",
+                "goods_nomenclature_sid": 90104,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "70393",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2844103000",
+                "goods_nomenclature_sid": 70393,
+                "producline_suffix": "80",
+                "number_indents": 3,
+                "description": "Worked"
+            }
+        },
+        {
+            "id": "70396",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2844203500",
+                "goods_nomenclature_sid": 70396,
+                "producline_suffix": "80",
+                "number_indents": 3,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "35471",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2612101000",
+                "goods_nomenclature_sid": 35471,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Uranium ores and pitchblende, and concentrates thereof, with a uranium content of more than 5% by weight"
+            }
+        },
+        {
+            "id": "101254",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2903930000",
+                "goods_nomenclature_sid": 101254,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Pentachlorobenzene (iso)"
+            }
+        },
+        {
+            "id": "101255",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "2903940000",
+                "goods_nomenclature_sid": 101255,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Hexabromobiphenyls"
+            }
+        },
+        {
+            "id": "103882",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "3603006090",
+                "goods_nomenclature_sid": 103882,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "103836",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "3603005000",
+                "goods_nomenclature_sid": 103836,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Detonating caps"
+            }
+        },
+        {
+            "id": "103834",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "3603003000",
+                "goods_nomenclature_sid": 103834,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Detonating fuses"
+            }
+        },
+        {
+            "id": "93815",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "3601000090",
+                "goods_nomenclature_sid": 93815,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "38201",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "3604900000",
+                "goods_nomenclature_sid": 38201,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "103883",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "3603006010",
+                "goods_nomenclature_sid": 103883,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Igniters for gas generators with an overall maximum length of 20,34mm or more but not more than 29,4mm and a pin length of 6,68mm (± 0,3mm ) or more but not more than 7,54mm (± 0,3mm )"
+            }
+        },
+        {
+            "id": "93814",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "3601000010",
+                "goods_nomenclature_sid": 93814,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Pyrotechnical powder in the form of granulate of cylindrical shape, composed of strontium nitrate or copper nitrate in the solution of nitroguanidine, binder and additives, used as a component of airbag inflators"
+            }
+        },
+        {
+            "id": "38195",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "3602000000",
+                "goods_nomenclature_sid": 38195,
+                "producline_suffix": "80",
+                "number_indents": 0,
+                "description": "Prepared explosives, other than propellent powders"
+            }
+        },
+        {
+            "id": "103835",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "3603004000",
+                "goods_nomenclature_sid": 103835,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Percussion caps"
+            }
+        },
+        {
+            "id": "103833",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "3603002000",
+                "goods_nomenclature_sid": 103833,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Safety fuses"
+            }
+        },
+        {
+            "id": "103838",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "3603008000",
+                "goods_nomenclature_sid": 103838,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Electric detonators"
+            }
+        },
+        {
+            "id": "104912",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "8482990030",
+                "goods_nomenclature_sid": 104912,
+                "producline_suffix": "80",
+                "number_indents": 3,
+                "description": "Brass cages with the following characteristics: – continuously or centrifugally cast, – turned, – containing by weight 35 % or more, but not more than 38 % of zinc, – containing by weight 0,75 % or more, but not more than 1,25 % of lead, – containing by weight 1,0 % or more, but not more than 1,4 % of aluminium, and – with a tensile strength of 415 pa or more, of a kind used for the manufacture of ball bearings "
+            }
+        },
+        {
+            "id": "104247",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "8482990090",
+                "goods_nomenclature_sid": 104247,
+                "producline_suffix": "80",
+                "number_indents": 3,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "69068",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9303201000",
+                "goods_nomenclature_sid": 69068,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Single-barrelled, smooth bore"
+            }
+        },
+        {
+            "id": "54236",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9302000000",
+                "goods_nomenclature_sid": 54236,
+                "producline_suffix": "80",
+                "number_indents": 0,
+                "description": "Revolvers and pistols, other than those of heading\u0026nbsp;9303\u0026nbsp;or 9304"
+            }
+        },
+        {
+            "id": "98472",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9306290090",
+                "goods_nomenclature_sid": 98472,
+                "producline_suffix": "80",
+                "number_indents": 3,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "74211",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9305990000",
+                "goods_nomenclature_sid": 74211,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "54289",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9306909000",
+                "goods_nomenclature_sid": 54289,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "69069",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9303209500",
+                "goods_nomenclature_sid": 69069,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "54240",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9303100000",
+                "goods_nomenclature_sid": 54240,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Muzzle-loading firearms"
+            }
+        },
+        {
+            "id": "54245",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9303300000",
+                "goods_nomenclature_sid": 54245,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Other sporting, hunting or target-shooting rifles"
+            }
+        },
+        {
+            "id": "98469",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9305200010",
+                "goods_nomenclature_sid": 98469,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Shotgun barrels"
+            }
+        },
+        {
+            "id": "54253",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9305100000",
+                "goods_nomenclature_sid": 54253,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Of revolvers or pistols"
+            }
+        },
+        {
+            "id": "54288",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9306901000",
+                "goods_nomenclature_sid": 54288,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "For military purposes"
+            }
+        },
+        {
+            "id": "98471",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9306290010",
+                "goods_nomenclature_sid": 98471,
+                "producline_suffix": "80",
+                "number_indents": 3,
+                "description": "Cases"
+            }
+        },
+        {
+            "id": "54251",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9304000000",
+                "goods_nomenclature_sid": 54251,
+                "producline_suffix": "80",
+                "number_indents": 0,
+                "description": "Other arms (for example, spring, air or gas guns and pistols, truncheons), excluding those of heading\u0026nbsp;9307"
+            }
+        },
+        {
+            "id": "54267",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9306210000",
+                "goods_nomenclature_sid": 54267,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Cartridges"
+            }
+        },
+        {
+            "id": "54279",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9306301000",
+                "goods_nomenclature_sid": 54279,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "For revolvers and pistols of heading\u0026nbsp;9302\u0026nbsp;and for sub-machine-guns of heading\u0026nbsp;9301"
+            }
+        },
+        {
+            "id": "98470",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9305200090",
+                "goods_nomenclature_sid": 98470,
+                "producline_suffix": "80",
+                "number_indents": 2,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "54250",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9303900000",
+                "goods_nomenclature_sid": 54250,
+                "producline_suffix": "80",
+                "number_indents": 1,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "93231",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9306309000",
+                "goods_nomenclature_sid": 93231,
+                "producline_suffix": "80",
+                "number_indents": 3,
+                "description": "Other"
+            }
+        },
+        {
+            "id": "54281",
+            "type": "goods_nomenclature",
+            "attributes": {
+                "goods_nomenclature_item_id": "9306303000",
+                "goods_nomenclature_sid": 54281,
+                "producline_suffix": "80",
+                "number_indents": 3,
+                "description": "For military weapons"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "per_page": 5,
+            "total_count": 476
+        }
+    }
+}

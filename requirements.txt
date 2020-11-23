@@ -1,0 +1,14 @@
+autopep8==1.5.4
+certifi==2020.11.8
+chardet==3.0.4
+idna==2.10
+inflect==5.0.2
+jmespath==0.10.0
+lxml==4.6.1
+psycopg2==2.8.6
+pycodestyle==2.6.0
+python-dotenv==0.15.0
+requests==2.25.0
+requests-cache==0.5.2
+toml==0.10.2
+urllib3==1.26.2
