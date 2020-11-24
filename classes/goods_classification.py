@@ -80,7 +80,7 @@ class GoodsClassification(object):
             url = 'goods_nomenclatures/section/{}'.format(item["id"])
             path = 'json/goods_nomenclatures/goods_nomenclature_{:0>2}.json'.format(
                 item["id"])
-            section_note = Request(url, path).json
+            goods_nomenclatures = Request(url, path).json
 
     def get_chapters(self):
         # Get all chapters

@@ -9,10 +9,12 @@ class Chapter(object):
 
     def download(self):
         # Get all headings
-        for item in self.chapter["included"]:
-            if item["type"] == "heading":
-                heading_id = item["attributes"]["goods_nomenclature_item_id"][0:4]
-                url = 'headings/{}'.format(heading_id)
-                path = 'json/headings/heading_{}.json'.format(heading_id)
-                heading = Request(url, path).json
-
+        try:
+            for item in self.chapter["included"]:
+                if item["type"] == "heading":
+                    heading_id = item["attributes"]["goods_nomenclature_item_id"][0:4]
+                    url = 'headings/{}'.format(heading_id)
+                    path = 'json/headings/heading_{}.json'.format(heading_id)
+                    # heading = Request(url, path).json
+        except:
+            pass
