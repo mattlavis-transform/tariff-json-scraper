@@ -48,3 +48,7 @@ Takes 5 minutes
 `python3 main.py commodities`
 
 Downloads commodities - takes hours
+
+You are able to start the download at a specific part, by specifying as the second argument the commodity code on which to start, e.g.
+
+`python3 main.py commodities 0302118019`

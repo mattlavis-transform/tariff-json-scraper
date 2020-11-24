@@ -8,16 +8,19 @@ from classes.chapter import Chapter
 
 class GoodsClassification(object):
     def __init__(self):
+        minimum_code = ""
         if len(sys.argv) > 1:
             if sys.argv[1] == "structure":
                 self.download_structure()
 
             elif sys.argv[1] == "commodities":
-                self.download_commodities()
+                if len(sys.argv) > 2:
+                    minimum_code = sys.argv[2]
+                self.download_commodities(minimum_code)
         else:
             return
 
-    def download_commodities(self):
+    def download_commodities(self, minimum_code):
         # Look for the downloaded goods_nomenclatures files in the sections folder
         root = os.path.dirname(os.path.realpath(__file__))
         root = os.path.join(root, "..")
@@ -42,14 +45,16 @@ class GoodsClassification(object):
                         for item in data["data"]:
                             href = item["attributes"]["href"]
                             goods_nomenclature_item_id = item["attributes"]["goods_nomenclature_item_id"]
-                            chapter_id = goods_nomenclature_item_id[0:2]
-                            if "commodities" in href:
-                                url = 'commodities/{}'.format(goods_nomenclature_item_id)
-                                path = 'json/commodities/{}/{}.json'.format(chapter_id, goods_nomenclature_item_id)
-                                commodity = Request(url, path).json
-
-
-
+                            if goods_nomenclature_item_id >= minimum_code:
+                                producline_suffix = item["attributes"]["producline_suffix"]
+                                chapter_id = goods_nomenclature_item_id[0:2]
+                                if producline_suffix == "80":
+                                    if "commodities" in href:
+                                        url = 'commodities/{}'.format(
+                                            goods_nomenclature_item_id)
+                                        path = 'json/commodities/{}/{}.json'.format(
+                                            chapter_id, goods_nomenclature_item_id)
+                                        commodity = Request(url, path).json
 
     def download_structure(self):
         self.get_sections()
